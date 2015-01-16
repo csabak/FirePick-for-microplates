@@ -1,3 +1,4 @@
 derived from
+rotating setup too heavy, currently the fixed one is used
 
 http://www.thingiverse.com/thing:218230
